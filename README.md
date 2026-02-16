@@ -86,19 +86,7 @@ I'm a software engineer specializing in **Python** backend development and **Clo
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidmuraya&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=davidmuraya&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmuraya&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=davidmuraya&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 </div>
 
